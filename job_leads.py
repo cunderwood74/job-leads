@@ -50,8 +50,12 @@ CONFIG = {
     "results_per_search": 25,
     # Skip companies you already work with, so they don't show up as "leads"
     "existing_clients": [
-        # "Example Logistics Ltd",
-    ],
+    "Reed",
+    "Matchtech",
+    "Hiring People",
+      "Loom Talent",
+      "Hays",
+],
     # Only flag a company as a strong sales lead once it has at least this many
     # open roles found today
     "sales_lead_min_postings": 2,
